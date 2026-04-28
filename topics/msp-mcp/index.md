@@ -2,7 +2,7 @@
 aliases: wyre-msp-mcp
 display_name: MSP MCP
 logo: msp-mcp.png
-short_description: Model Context Protocol servers that connect MSP tools — PSAs, RMMs, security stacks, documentation platforms — to AI assistants like Claude.
+short_description: Model Context Protocol servers wrapping MSP tools (PSAs, RMMs, security, documentation) for AI assistants like Claude.
 topic: msp-mcp
 url: https://mcp.wyre.ai
 related: mcp, model-context-protocol, msp
