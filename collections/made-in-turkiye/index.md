@@ -20,6 +20,7 @@ items:
  - Huseyinnurbaki/mocktail
  - geziyor/geziyor
  - Trendyol/baklava
+ - Tuntii/RustAPI
  - kemalcr/kemal
 display_name: Made in Türkiye
 created_by: kiliczsh
