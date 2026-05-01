@@ -21,6 +21,7 @@ items:
  - geziyor/geziyor
  - Trendyol/baklava
  - Tuntii/RustAPI
+ - kemalcr/kemal
 display_name: Made in Türkiye
 created_by: kiliczsh
 image: made-in-turkiye.png
